@@ -1,0 +1,2 @@
+# GrowthRateCalc
+more comparing objects
